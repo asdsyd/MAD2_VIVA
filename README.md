@@ -1,4 +1,9 @@
 # MAD2_VIVA
+***
+## Resources to prepare for viva?
+https://www.toptal.com/vue-js/interview-questions
+https://chat.openai.com/
+Google the below questions :)
 
 ## What was asked in viva?
 Level-2 97: He asked demo of the project, theoretical questions on scaling, and web sockets. I was saving photos in the DB. Asked me to write code to save pictures in the file system. Also, some modifications in the front end to include the user name in the navigation bar.
